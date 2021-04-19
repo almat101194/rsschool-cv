@@ -2,9 +2,9 @@
 
     First name: Almat
     Last name: Elamanov
-    Address: Kazakhstan, Aqtau, microDistrict 27, b. 19, ap. 32.
-    Telephone number: +7 776 874 85 88
-    EMail: almat101194@gmail.com
+    Address: Kazakhstan,____,________
+    Telephone number: +7 7xx xxx xx xx
+    EMail: almaxxxxxxx@gmail.com
     Telegram: @almastos
 
 # Summary
