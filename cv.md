@@ -37,7 +37,6 @@
     I. Programming languages:
       1. Kotlin
       2. Java
-      3. Dart
     II. Development environment:
       1.Android Studio
     III. Langnuages:
